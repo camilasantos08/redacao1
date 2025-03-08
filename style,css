@@ -1,0 +1,44 @@
+ </style>
+</head>
+<body>
+    <header>
+        <div class="logo">Redação N&C</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Dicas</a></li>
+                <li><a href="#">Redações</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="banner">
+        <h1>Como fazer uma boa redação</h1>
+    </section>
+
+    <section class="content">
+        <article>
+            <h2>Dicas para uma boa redação</h2>
+            <p>1. Leia e interprete o projeto...</p>
+            <p>2. Faça o rascunho...</p>
+            <p>3. Revise...</p>
+        </article>
+    </section>
+
+    <section class="examples">
+        <h2>Redações Nota 1000</h2>
+        <div class="redacao">
+            <h3>Catharina Ferreira, São Paulo (SP)</h3>
+            <p>Texto da redação...</p>
+        </div>
+        <div class="redacao">
+            <h3>Rafaela Muller, Pelotas (RS)</h3>
+            <p>Texto da redação...</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Redações N&C</p>
+    </footer>
+</body>
+</html>
